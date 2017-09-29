@@ -1,3 +1,7 @@
 /out
 /.idea
 sort.iml
+/bin/
+.classpath
+.project
+.settings/
